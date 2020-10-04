@@ -1,3 +1,13 @@
+Version 1.0
+-Added several time delays to simulate a real game experience. Fixed the text formatting of several areas.
+
+
+----
+Version 0.7
+
+-Finished basic requirements. Have a functioning game and scoring system.
+
+----
 Version 0.3
 
 -Implemented tweepy and twitter API to retrieve tweets from the two celebrities.
